@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 2cdbbe23238fa424dae5517c9714a781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8530241853495858846
+    second: Sprites Enviroment_0
+  - first:
+      213: -4671162766269323157
+    second: Sprites Enviroment_1
+  - first:
+      213: 7760824778487348176
+    second: Sprites Enviroment_2
+  - first:
+      213: 359219010542555721
+    second: Sprites Enviroment_3
+  - first:
+      213: 4742758280788994510
+    second: Sprites Enviroment_4
+  - first:
+      213: 2354553132229141964
+    second: Sprites Enviroment_5
+  - first:
+      213: 7228334058180534865
+    second: Sprites Enviroment_6
+  - first:
+      213: 2888125468881068543
+    second: Sprites Enviroment_7
+  - first:
+      213: -8307699938900523390
+    second: Sprites Enviroment_8
+  - first:
+      213: -894525088316672569
+    second: Sprites Enviroment_9
+  - first:
+      213: -1339270406729905154
+    second: Sprites Enviroment_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites Enviroment_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 289
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a53aba3e7e9980800000000000000
+      internalID: -8530241853495858846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 287
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b686c748632bc2fb0800000000000000
+      internalID: -4671162766269323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 285
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb9c5740df3bb60800000000000000
+      internalID: 7760824778487348176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 282
+        width: 81
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942d4ff69c33cf400800000000000000
+      internalID: 359219010542555721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 284
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec968f53789a1d140800000000000000
+      internalID: 4742758280788994510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 134
+        width: 76
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52d4b499d0da020800000000000000
+      internalID: 2354553132229141964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 138
+        width: 76
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15265bf4783305460800000000000000
+      internalID: 7228334058180534865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 152
+        width: 76
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff12a6fdfcea41820800000000000000
+      internalID: 2888125468881068543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 146
+        width: 46
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286cc41fbee15bc80800000000000000
+      internalID: -8307699938900523390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 158
+        width: 45
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5b53ceb220693f0800000000000000
+      internalID: -894525088316672569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites Enviroment_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 170
+        width: 45
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbcbac29a4f96de0800000000000000
+      internalID: -1339270406729905154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a707601be9f23654b9bd8cb5ae6f5a75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprites Enviroment_0: -8530241853495858846
+      Sprites Enviroment_1: -4671162766269323157
+      Sprites Enviroment_10: -1339270406729905154
+      Sprites Enviroment_2: 7760824778487348176
+      Sprites Enviroment_3: 359219010542555721
+      Sprites Enviroment_4: 4742758280788994510
+      Sprites Enviroment_5: 2354553132229141964
+      Sprites Enviroment_6: 7228334058180534865
+      Sprites Enviroment_7: 2888125468881068543
+      Sprites Enviroment_8: -8307699938900523390
+      Sprites Enviroment_9: -894525088316672569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
