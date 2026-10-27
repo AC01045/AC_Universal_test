@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Hotel Floor
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: -8530241853495858846, guid: 2cdbbe23238fa424dae5517c9714a781, type: 3}
+  m_Sprite: {fileID: 4773600122041589604, guid: 4b48fffeac4655448bad9a209e0d9697, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
