@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -6,6 +7,7 @@ public class intercationcontroller : MonoBehaviour
     [SerializeField] private InputActionReference interactionAction;
 
     [SerializeField] private GameObject intaractText;
+    [SerializeField] public TextMeshProUGUI dialogue;
 
     private bool isPlayerInRange = false;
 
@@ -53,6 +55,10 @@ public class intercationcontroller : MonoBehaviour
             Debug.Log("Interaccion con objeto");
             intaractText.SetActive(false);
             gameObject.SetActive(false);
+            if(gameObject.tag == "Fantasma 1")
+                dialogue.text = "Econtraste un Objeto Importante";
+            if (gameObject.tag == "Fantasma 2")
+                dialogue.text = "Habla con Fantasma 1 primero";
         }
     }
 }
