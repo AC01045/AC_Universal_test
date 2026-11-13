@@ -2830,9 +2830,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.b
+      value: 0.4339623
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4339623
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.r
+      value: 0.4339623
+      objectReference: {fileID: 0}
     - target: {fileID: 8311483741834968573, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
       propertyPath: m_Name
-      value: Interacr Prefab (3)
+      value: Lampara 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311483741834968573, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_TagString
+      value: Lampara 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23565,11 +23581,11 @@ GameObject:
   - component: {fileID: 925831833}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: Lampara 1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &925831832
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23702,9 +23718,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0.4260726
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8311483741834968573, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
       propertyPath: m_Name
-      value: Interacr Prefab (2)
+      value: Lampara 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311483741834968573, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_TagString
+      value: Lampara 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23729,7 +23761,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1193933203
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28913,9 +28945,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818035541412825984, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8311483741834968573, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
       propertyPath: m_Name
-      value: Interacr Prefab (1)
+      value: Lampara 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8311483741834968573, guid: 28de59ce0f1b0d1408846edd346f3e7a, type: 3}
+      propertyPath: m_TagString
+      value: Lampara 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28978,9 +29026,25 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -1428572451713796752, guid: 4b48fffeac4655448bad9a209e0d9697, type: 3}
+    - target: {fileID: 2871806252118860452, guid: 6d2789b29a987db49b9ee3aa006a8d58, type: 3}
+      propertyPath: m_Color.b
+      value: 0.04966176
+      objectReference: {fileID: 0}
+    - target: {fileID: 2871806252118860452, guid: 6d2789b29a987db49b9ee3aa006a8d58, type: 3}
+      propertyPath: m_Color.g
+      value: 0.76991117
+      objectReference: {fileID: 0}
+    - target: {fileID: 2871806252118860452, guid: 6d2789b29a987db49b9ee3aa006a8d58, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8490566
+      objectReference: {fileID: 0}
     - target: {fileID: 6230887062148881433, guid: 6d2789b29a987db49b9ee3aa006a8d58, type: 3}
       propertyPath: m_Name
-      value: Interacr Prefab
+      value: Lampara 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6230887062148881433, guid: 6d2789b29a987db49b9ee3aa006a8d58, type: 3}
+      propertyPath: m_TagString
+      value: Lampara 1
       objectReference: {fileID: 0}
     - target: {fileID: 7530315318848916756, guid: 6d2789b29a987db49b9ee3aa006a8d58, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.y

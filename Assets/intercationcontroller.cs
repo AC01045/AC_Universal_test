@@ -55,10 +55,12 @@ public class intercationcontroller : MonoBehaviour
             Debug.Log("Interaccion con objeto");
             intaractText.SetActive(false);
             gameObject.SetActive(false);
-            if(gameObject.tag == "Fantasma 1")
-                dialogue.text = "Econtraste un Objeto Importante";
-            if (gameObject.tag == "Fantasma 2")
-                dialogue.text = "Habla con Fantasma 1 primero";
+            if(gameObject.tag == "Lampara 1")
+                dialogue.text = "Econtraste una lampara rota";
+            if (gameObject.tag == "Lampara 2")
+                dialogue.text = "recoge otra lampara";
+            if (gameObject.tag == "Lampara 3")
+                dialogue.text = "recoge otra lampara";
         }
     }
 }
