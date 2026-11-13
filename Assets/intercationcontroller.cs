@@ -61,6 +61,8 @@ public class intercationcontroller : MonoBehaviour
                 dialogue.text = "recoge otra lampara";
             if (gameObject.tag == "Lampara 3")
                 dialogue.text = "recoge otra lampara";
+            if (gameObject.tag == "Lampara 4")
+                dialogue.text = "recoge otra lampara";
         }
     }
 }
